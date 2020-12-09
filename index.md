@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 1984
+title: RIGHTS OF MAN 
 has_children: true
 nav_order: 1
-description: "1984, By George Orwell"
+description: "RIGHTS OF MAN, By Thomas Paine"
 permalink: /
 ---
 
-This is a mobile-friendly version of the [original article](http://gutenberg.net.au/ebooks01/0100021.txt)
+This is a mobile-friendly version of the [original article](https://www.gutenberg.org/files/3742/3742-h/3742-h.htm)
 
-# 1984
+# RIGHTS OF MAN
 
-## By George Orwell
+## By Thomas Paine
